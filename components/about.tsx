@@ -33,7 +33,7 @@ export default function About() {
               </div>
               <div className="border-l-2 border-primary pl-6">
                 <h4 className="text-lg font-semibold text-foreground">
-                  Higher Secondary (Physics-Chemistry-Math-Computer Science)
+                  Higher Secondary (PCMC)
                 </h4>
                 <p className="text-muted-foreground">Graduated: 2024 (97% Score)</p>
               </div>
