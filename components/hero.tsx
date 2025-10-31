@@ -41,7 +41,7 @@ export default function Hero({ setActiveSection }: HeroProps) {
         <div className="text-center space-y-8">
           <div className="space-y-4">
             <h1 className="text-5xl md:text-7xl font-bold text-foreground leading-tight">
-              Heya! I am <span className="text-primary text-glow text-float inline-block">Aakash Hariram</span>
+              Heya! I am <span className="text-primary text-glow text-float text-shimmer inline-block">Aakash Hariram</span>
             </h1>
             <p className="text-xl md:text-2xl text-muted-foreground text-float">
               Electronics and Computer Engineering Student
